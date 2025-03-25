@@ -3,3 +3,4 @@ changes.
 
 **Name:** Kristian Wright  
 **School:** Moravian University
+**Favorite Colors:** Magenta and Cyan
